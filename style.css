@@ -1,0 +1,8 @@
+#stopwatch {background-color: rgb(220, 241, 31); border: 1px solid #000; border-radius: 3px;}
+#stopwatch tt {color: blue; background-color: #fff; border: 1px solid #000; border-radius: 3px; padding: 3px;}
+#stopwatch button { width: 7em; height: 2em;}
+#stateChange, #start {background-color: blue; color: white;}
+#split { background-color: tomato; color: white;}
+#reset { background-color: teal; color: white;}
+#pause { background-color: red; color: white;}
+#lapContainer { text-align: center; margin-top: 20px;}
